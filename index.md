@@ -3,8 +3,8 @@
 ---
 ### Automation
 
-[Why are so many people dying of COVID-19 in Mexico?](/pdf/capstone1.pdf)
-<img src="images/capstone1_thumb.png?raw=true"/>
+[Why are so many people dying of COVID-19 in Mexico?](/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf)
+<img src="images/why-are-so-many-people-dying-of_covid19-in-Mexico_thumb.png?raw=true"/>
 
 
 [Project 1 Title](/sample_page)
