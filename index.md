@@ -13,6 +13,7 @@
 <a href="/pdf/sales-analysis-dashboard.pdf">
     <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true">
 </a>
+<img src="images/sales-analysis_thumb.gif">
 
 ---
 [Covid-19 Map](https://rommel-space.herokuapp.com/covid19/)
