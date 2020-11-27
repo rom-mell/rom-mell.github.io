@@ -10,7 +10,7 @@
 ---
 [Toy sales analysis (end-to-end process)](/pdf/sales-analysis-dashboard.pdf)
 <br><br>
-<a href="/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf">
+<a href="/pdf/sales-analysis-dashboard.pdf">
     <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true">
 </a>
 
@@ -22,8 +22,11 @@
 </a>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Family Trips](https://rommel-space.herokuapp.com/family_trips)
+<br><br>
+<a href="https://rommel-space.herokuapp.com/family_trips">
+    <img src="images/family-trips.png?raw=true">
+</a>
 
 ---
 
