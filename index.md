@@ -1,18 +1,25 @@
-## Portfolio1
+## Portfolio
 
 ---
-### Automation
-
 [Why are so many people dying of COVID-19 in Mexico?](/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf)
-<img src="images/why-are-so-many-people-dying-of_covid19-in-Mexico_thumb.png?raw=true"/>
-
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br><br>
+<a href="/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf">
+    <img src="images/why-are-so-many-people-dying-of_covid19-in-Mexico_thumb.png?raw=true" width=300" height="140">
+</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Toy sales analysis (end-to-end process)](/pdf/sales-analysis-dashboard.pdf)
+<br><br>
+<a href="/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf">
+    <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true" width=300" height="140">
+</a>
+
+---
+[Covid-19 Map](https://rommel-space.herokuapp.com/covid19/)
+<br><br>
+<a href="https://rommel-space.herokuapp.com/covid19/">
+    <img src="images/covid19-world-map.png?raw=true" width=300" height="140">
+</a>
 
 ---
 [Project 3 Title](http://example.com/)
