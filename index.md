@@ -1,3 +1,22 @@
+### I'm currently learning
+- [Associate Data Analyst Course][ntuccourse]
+---
+### I'm currently
+- reskilling my [project management][onlinecourse] skill online
+---
+### I'm currently working On:
+- my [rommel-workspace][website] website
+---
+### Recently Completed Learing:
+- [Statistics for Data Science and Business Analysis][udemy_statistcs]
+- [Analyze Data with SQL Skill Path][codecademy_sqldataanalysis]
+- [Learn Python 3 Course][codecademy_python3]
+- [Power BI Essential Training][linkedin_powerbi]
+- [SQL: Data Reporting and Analysis][linkedin_sqldataanalysis]
+- [Tableau Essential Training (2020.1)][linkedin_tableau]
+- [The Python Mega Course: Build 10 Real World Applications][udemy_python3]
+---
+
 ## Portfolio
 
 ---
@@ -29,3 +48,11 @@
 <a href="https://rommel-space.herokuapp.com/family_trips">
     <img src="images/family-trips.png?raw=true">
 </a>
+
+[udemy_statistics]: https://udemy-certificate.s3.amazonaws.com/pdf/UC-e9cdcf07-4c51-4d04-a986-cc71c679d0e9.pdf
+[codecademy_sqldataanalysis]: https://www.codecademy.com/profiles/net8838696050/certificates/5cafb2d937090210d7df3652
+[codecademy_python3]: https://www.codecademy.com/profiles/net8838696050/certificates/6c152bd262967f8c941c9707ed636bda
+[linkedin_powerbi]: http://www.linkedin.com/learning/power-bi-essential-training-3?trk=flagship-lil_details_certification
+[linkedin_sqldataanalysis]: http://www.linkedin.com/learning/sql-data-reporting-and-analysis-2?trk=flagship-lil_details_certification
+[linkedin_tableau]: http://www.linkedin.com/learning/tableau-essential-training-2020-1?trk=flagship-lil_details_certification
+[udemy_python3]: https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c63d2fb-abbe-48bf-af6f-ac4ae78c92c3.pdf
