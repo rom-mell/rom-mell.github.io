@@ -1,14 +1,21 @@
 ### I'm currently learning
+
 - [Associate Data Analyst Course][ntuccourse]
 ---
+
 ### I'm currently
+
 - reskilling my [project management][onlinecourse] skill online
 ---
-### I'm currently working On:
+
+### I'm currently working on:
+
 - my [rommel-workspace][website] website
 ---
-### Recently Completed Learing:
-- [Statistics for Data Science and Business Analysis][udemy_statistcs]
+
+### My recently completed learning:
+
+- [Statistics for Data Science and Business Analysis][udemy_statistics]
 - [Analyze Data with SQL Skill Path][codecademy_sqldataanalysis]
 - [Learn Python 3 Course][codecademy_python3]
 - [Power BI Essential Training][linkedin_powerbi]
@@ -49,6 +56,9 @@
     <img src="images/family-trips.png?raw=true">
 </a>
 
+[ntuccourse]: https://www.ntuclearninghub.com/course/associate-data-analyst/
+[onlinecourse]: https://www.linkedin.com/learning/project-management-foundations-4
+[website]: https://rommel-space.herokuapp.com/
 [udemy_statistics]: https://udemy-certificate.s3.amazonaws.com/pdf/UC-e9cdcf07-4c51-4d04-a986-cc71c679d0e9.pdf
 [codecademy_sqldataanalysis]: https://www.codecademy.com/profiles/net8838696050/certificates/5cafb2d937090210d7df3652
 [codecademy_python3]: https://www.codecademy.com/profiles/net8838696050/certificates/6c152bd262967f8c941c9707ed636bda
