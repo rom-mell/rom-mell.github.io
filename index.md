@@ -1,20 +1,13 @@
 ### I'm currently learning
-
 - [Associate Data Analyst Course][ntuccourse]
----
 
 ### I'm currently
-
 - reskilling my [project management][onlinecourse] skill online
----
 
 ### I'm currently working on:
-
 - my [rommel-workspace][website] website
----
 
 ### My recently completed learning:
-
 - [Statistics for Data Science and Business Analysis][udemy_statistics]
 - [Analyze Data with SQL Skill Path][codecademy_sqldataanalysis]
 - [Learn Python 3 Course][codecademy_python3]
@@ -22,7 +15,7 @@
 - [SQL: Data Reporting and Analysis][linkedin_sqldataanalysis]
 - [Tableau Essential Training (2020.1)][linkedin_tableau]
 - [The Python Mega Course: Build 10 Real World Applications][udemy_python3]
----
+
 
 ## Portfolio
 
