@@ -2,7 +2,7 @@ title: Rommel Labastida # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 <br><br>
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br><br><br>
   <a href="https://www.linkedin.com/in/rmlabastida/"><i class="fa fa-linkedin fa-5x"></i></a>
   <i class="fa fa-linkedin fa-2x"></i>
 theme: jekyll-theme-minimal
