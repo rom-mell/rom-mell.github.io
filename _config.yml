@@ -1,16 +1,15 @@
 title: Rommel Labastida # your name (or website title) here
 logo: "/images/logo_bw.png?raw=true" # your photo (or logo) here
-args: |
-  <br><br>
+args: 
   My <a href="https://www.linkedin.com/in/rmlabastida/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a> page
-  My recently completed learning:
+  My recently completed learning
     - <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-e9cdcf07-4c51-4d04-a986-cc71c679d0e9.pdf">Statistics for Data Science and Business Analysis</a></li>
     - <a href="https://www.codecademy.com/profiles/net8838696050/certificates/5cafb2d937090210d7df3652">Analyze Data with SQL Skill Path</a>
     - <a href="https://www.codecademy.com/profiles/net8838696050/certificates/6c152bd262967f8c941c9707ed636bda">Learn Python 3 Course</a>
     - <a href="http://www.linkedin.com/learning/power-bi-essential-training-3?trk=flagship-lil_details_certification">Power BI Essential Training</a>
-    - <a href="http://www.linkedin.com/learning/sql-data-reporting-and-analysis-2?trk=flagship-lil_details_certification">SQL: Data Reporting and Analysis</a>
+    - <a href="http://www.linkedin.com/learning/sql-data-reporting-and-analysis-2?trk=flagship-lil_details_certification">SQL - Data Reporting and Analysis</a>
     - <a href="http://www.linkedin.com/learning/tableau-essential-training-2020-1?trk=flagship-lil_details_certification">Tableau Essential Training (2020.1)</a>
-    - <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c63d2fb-abbe-48bf-af6f-ac4ae78c92c3.pdf">The Python Mega Course: Build 10 Real World Applications</a>
+    - <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-0c63d2fb-abbe-48bf-af6f-ac4ae78c92c3.pdf">The Python Mega Course - Build 10 Real World Applications</a>
 
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
