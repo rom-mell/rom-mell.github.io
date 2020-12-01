@@ -11,13 +11,13 @@
 ## Portfolio
 
 ---
-- #### [Why are so many people dying of COVID-19 in Mexico?](/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf)
+- #### Why are so many people dying of COVID-19 in Mexico?
 <a href="/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf" target="_blank">
-    <img src="images/why-are-so-many-people-dying-of_covid19-in-Mexico_thumb.png?raw=true">
+    <img src="images/why-are-so-many-people-dying-of_covid19-in-Mexico_thumb.png?raw=true" >
 </a>
 
 ---
-- #### [Toy sales analysis (end-to-end process)](/pdf/sales-analysis-dashboard.pdf)
+- #### Toy sales analysis (end-to-end process)
 <a href="/pdf/sales-analysis-dashboard.pdf" target="_blank">
     <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true">
 </a>
@@ -29,13 +29,13 @@
 ### Hobbies
 
 ---
-- #### [Covid-19 Map](https://rommel-space.herokuapp.com/covid19/)
+- #### Covid-19 Map
 <a href="https://rommel-space.herokuapp.com/covid19/" target="_blank">
     <img src="images/covid19-world-map.png?raw=true">
 </a>
 
 ---
-- #### [Family Trips](https://rommel-space.herokuapp.com/family_trips)
+- #### Family Trips
 <a href="https://rommel-space.herokuapp.com/family_trips" target="_blank">
     <img src="images/family-trips.png?raw=true">
 </a>
