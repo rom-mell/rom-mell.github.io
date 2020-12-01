@@ -7,27 +7,18 @@
 ### I'm currently working on:
 - my [rommel-workspace][website] website
 
-### My recently completed learning:
-- [Statistics for Data Science and Business Analysis][udemy_statistics]
-- [Analyze Data with SQL Skill Path][codecademy_sqldataanalysis]
-- [Learn Python 3 Course][codecademy_python3]
-- [Power BI Essential Training][linkedin_powerbi]
-- [SQL: Data Reporting and Analysis][linkedin_sqldataanalysis]
-- [Tableau Essential Training (2020.1)][linkedin_tableau]
-- [The Python Mega Course: Build 10 Real World Applications][udemy_python3]
-
 
 ## Portfolio
 
 ---
 - #### [Why are so many people dying of COVID-19 in Mexico?](/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf)
-<a href="/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf">
+<a href="/pdf/why-are-so-many-people-dying-of_covid19-in-Mexico.pdf" target="_blank">
     <img src="images/why-are-so-many-people-dying-of_covid19-in-Mexico_thumb.png?raw=true">
 </a>
 
 ---
 - #### [Toy sales analysis (end-to-end process)](/pdf/sales-analysis-dashboard.pdf)
-<a href="/pdf/sales-analysis-dashboard.pdf">
+<a href="/pdf/sales-analysis-dashboard.pdf" target="_blank">
     <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true">
 </a>
 <img src="images/sales-analysis_thumb.gif">
@@ -39,13 +30,13 @@
 
 ---
 - #### [Covid-19 Map](https://rommel-space.herokuapp.com/covid19/)
-<a href="https://rommel-space.herokuapp.com/covid19/">
+<a href="https://rommel-space.herokuapp.com/covid19/" target="_blank">
     <img src="images/covid19-world-map.png?raw=true">
 </a>
 
 ---
 - #### [Family Trips](https://rommel-space.herokuapp.com/family_trips)
-<a href="https://rommel-space.herokuapp.com/family_trips">
+<a href="https://rommel-space.herokuapp.com/family_trips" target="_blank">
     <img src="images/family-trips.png?raw=true">
 </a>
 
