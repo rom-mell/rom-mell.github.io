@@ -17,6 +17,12 @@
 <img src="images/sales-analysis_thumb.gif">
 
 ---
+- #### Power BI Dashboard: Amazon top-rated products reviews analysis
+<a href="/pdf/amazon-top-rated-products-reviews-analysis.pdf" target="_blank">
+    <img src="images/amazon-top-rated-products-reviews-analysis.png?raw=true">
+</a>
+
+---
 - #### Bank customer churn analysis
 <a href="/pdf/bank-customer-churn.pdf" target="_blank">
     <img src="images/bank-customer-churn.png?raw=true">
