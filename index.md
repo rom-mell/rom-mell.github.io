@@ -19,7 +19,7 @@
 ---
 - #### Bank customer churn analysis
 <a href="/pdf/bank-customer-churn.pdf" target="_blank">
-    <img src="images/bank-customer-churn_thumb.png?raw=true">
+    <img src="images/bank-customer-churn.png?raw=true">
 </a>
 
 ---
