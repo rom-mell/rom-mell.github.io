@@ -1,13 +1,6 @@
 ### I'm currently learning
 - [Associate Data Analyst Course][ntuccourse]
 
-### I'm currently
-- reskilling my [project management][onlinecourse] skill online
-
-### I'm currently working on:
-- my [rommel-workspace][website] website
-
-
 ## Portfolio
 
 ---
@@ -24,7 +17,12 @@
 <img src="images/sales-analysis_thumb.gif">
 
 ---
+- #### Bank customer churn analysis
+<a href="/pdf/bank-customer-churn.pdf" target="_blank">
+    <img src="images/bank-customer-churn_thumb.png?raw=true">
+</a>
 
+---
 
 ### Hobbies
 
