@@ -1,5 +1,5 @@
 ### I'm currently taking
-- <a href="https://www.ntuclearninghub.com/course/associate-data-analyst/" target="_blank">example</a>
+- <a href="https://www.ntuclearninghub.com/course/associate-data-analyst/" target="_blank">Associate Data Analyst Course</a>
 
 
 ## Portfolio
