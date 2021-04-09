@@ -1,4 +1,4 @@
-### I'm currently learning
+### I'm currently taking
 - [Associate Data Analyst Course][ntuccourse]
 
 ## Portfolio
