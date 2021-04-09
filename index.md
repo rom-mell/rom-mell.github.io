@@ -1,5 +1,6 @@
 ### I'm currently taking
-- [Associate Data Analyst Course][ntuccourse]
+- <a href="https://www.ntuclearninghub.com/course/associate-data-analyst/" target="_blank">example</a>
+
 
 ## Portfolio
 
