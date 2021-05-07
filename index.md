@@ -15,7 +15,7 @@
 <a href="/pdf/sales-analysis-dashboard.pdf" target="_blank">
     <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true">
 </a>
-<img src="images/sales-analysis_thumb.gif">
+<img src="images/sales-analysis_thumb.gif?raw=true">
 
 ---
 - #### Power BI Dashboard: Amazon top-rated products reviews analysis
@@ -27,6 +27,12 @@
 - #### Bank customer churn analysis
 <a href="/pdf/bank-customer-churn.pdf" target="_blank">
     <img src="images/bank-customer-churn.png?raw=true">
+</a>
+
+---
+- #### SMS/EMail messaging tool using MS Excel/Access VBA
+<a href="/pdf/bank-customer-churn.pdf" target="_blank">
+    <img src="images/notification_tool.gif?raw=true">
 </a>
 
 ---
