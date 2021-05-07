@@ -30,7 +30,7 @@
 </a>
 
 ---
-- #### SMS/EMail messaging tool using MS Excel/Access VBA
+- #### SMS/EMail messaging tool using MS Excel/Access VBA, Rest API, Sharepoint, Outlook
 <a href="images/notification_tool.gif" target="_blank">
     <img src="images/notification_tool.gif?raw=true">
 </a>
