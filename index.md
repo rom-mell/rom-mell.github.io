@@ -31,7 +31,7 @@
 
 ---
 - #### SMS/EMail messaging tool using MS Excel/Access VBA
-<a href="/pdf/bank-customer-churn.pdf" target="_blank">
+<a href="images/notification_tool.gif" target="_blank">
     <img src="images/notification_tool.gif?raw=true">
 </a>
 
