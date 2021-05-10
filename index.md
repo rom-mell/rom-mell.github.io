@@ -13,14 +13,14 @@
 ---
 - #### Toy sales analysis (end-to-end process)
 <a href="/pdf/sales-analysis-dashboard.pdf" target="_blank">
-    <img src="images/sales-analysis-interactive-dashboard_thumb.png?raw=true">
+    <img src="images/sales-analysis_interactive-dashboard_thumb.gif?raw=true">
 </a>
-<img src="images/sales-analysis_thumb.gif?raw=true">
+
 
 ---
 - #### Power BI Dashboard: Amazon top-rated products reviews analysis
 <a href="/pdf/amazon-top-rated-products-reviews-analysis.pdf" target="_blank">
-    <img src="images/amazon-top-rated-products-reviews-analysis.png?raw=true">
+    <img src="images/amazon-top-rated-products-reviews-analysis.gif?raw=true">
 </a>
 
 ---
