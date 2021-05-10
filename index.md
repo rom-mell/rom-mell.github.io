@@ -12,8 +12,8 @@
 
 ---
 - #### Toy sales analysis (end-to-end process)
-<a href="/pdf/sales-analysis-dashboard.pdf" target="_blank">
-    <img src="images/sales-analysis-interactive-dashboard_thumb.gif?raw=true">
+<a href="/pdf/toy-sales-analysis.pdf" target="_blank">
+    <img src="images/toy-sales-analysis.gif?raw=true">
 </a>
 
 ---
