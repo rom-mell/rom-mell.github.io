@@ -13,13 +13,13 @@
 ---
 - #### Toy sales analysis (end-to-end process)
 <a href="/pdf/toy-sales-analysis.pdf" target="_blank">
-    <img src="images/toy-sales-analysis.gif?raw=true">
+    <img src="images/toy-sales-analysis.gif">
 </a>
 
 ---
 - #### Power BI Dashboard: Amazon top-rated products reviews analysis
 <a href="/pdf/amazon-top-rated-products-reviews-analysis.pdf" target="_blank">
-    <img src="images/amazon-top-rated-products-reviews-analysis.gif?raw=true">
+    <img src="images/amazon-top-rated-products-reviews-analysis.gif">
 </a>
 
 ---
@@ -31,7 +31,7 @@
 ---
 - #### SMS/EMail messaging tool using MS Excel/Access VBA, Rest API, Sharepoint, Outlook
 <a href="images/notification_tool.gif" target="_blank">
-    <img src="images/notification_tool.gif?raw=true">
+    <img src="images/notification_tool.gif">
 </a>
 
 ---
