@@ -13,9 +13,8 @@
 ---
 - #### Toy sales analysis (end-to-end process)
 <a href="/pdf/sales-analysis-dashboard.pdf" target="_blank">
-    <img src="images/sales-analysis_interactive-dashboard_thumb.gif?raw=true">
+    <img src="images/sales-analysis-interactive-dashboard_thumb.gif?raw=true">
 </a>
-
 
 ---
 - #### Power BI Dashboard: Amazon top-rated products reviews analysis
