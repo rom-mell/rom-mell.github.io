@@ -1,8 +1,5 @@
-### I'm currently taking
-- <a href="https://www.ntuclearninghub.com/course/associate-data-analyst/" target="_blank">Associate Data Analyst Course</a>
 
-
-## Portfolio
+## My data analytics upskilling journey with NTUC
 
 ---
 - #### Why are so many people dying of COVID-19 in Mexico?
